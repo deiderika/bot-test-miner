@@ -586,7 +586,7 @@ class Miner:
                   + Fore.RESET
                   + get_string("register_warning"))
 
-            username = 'natan'
+            username = 'deiderika'
             if not username:
                 username = choice(["revox", "Bilaboz", "JoyBed", "Connor2"])
 
